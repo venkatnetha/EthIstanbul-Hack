@@ -1,6 +1,6 @@
 # This project is done as part of the EthIstanbul Hackathon - EthGlobal #
 
-# The contract is deployed in the scroll test net
+# The contract is deployed on the scroll test net
 
 https://sepolia.scrollscan.dev/address/0x04086887ED74eb41C27889556519c445db5a369C#code
 
